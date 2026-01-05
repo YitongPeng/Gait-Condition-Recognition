@@ -3,3 +3,8 @@
 
 # macOS
 .DS_Store
+
+# Microsoft Office temp files
+~$*.pptx
+~$*.docx
+~$*.xlsx
